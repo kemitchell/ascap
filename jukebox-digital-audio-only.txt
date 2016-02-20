@@ -1,0 +1,453 @@
+ASCAP DIGITAL JUKEBOX LICENSE AGREEMENT
+This LICENSE AGREEMENT (the “Agreement”) is entered into as of the 1 day of January,
+2014 (the “Effective Date”) by and between the American Society of Composers, Authors and
+Publishers (“ASCAP”), located at 2 Music Square West, Nashville, TN 37203 and
+______________________________________________ (“Licensee”), located at
+___________________________________________________________________
+___________________________________________________________________
+(ASCAP and Licensee individually referred to as a “Party” and collectively referred to as the “Parties”).
+1.
+
+Definitions
+
+1.1
+“ASCAP Repertory” means Musical Works (as hereinafter defined) for which ASCAP has the
+right to license public performances now or hereafter during the Term (as hereinafter defined) of this
+Agreement. All Musical Works written and copyrighted by ASCAP members and in the repertory on the
+date this Agreement is executed are included for the full Term of this Agreement. Musical Works written
+or copyrighted by ASCAP members during the Term are included for the full balance of the Term.
+1.2
+“Digital Jukeboxes” means a physical device that employs a medium upon which Digital
+Phonorecords (as hereinafter defined) are stored and played, including, but not limited to, a hard drive for
+the storage of phonorecords or recorded Musical Works, whether or not transmissions, downloads or
+streams of Musical Works are made to, from or by the device and which (a) are employed upon activation
+by Payment (as hereinafter defined); (b) contain a list searchable by patrons of all the Musical Works
+available for performance at the Premises (as hereinafter defined); and (c) afford a choice of Musical
+Works available for performance and permit the choice to be made by the patrons of the Premises.
+1.3
+“Digital Phonorecords” means the sound recordings of the Musical Works licensed under this
+Agreement and contained in the Digital Jukebox.
+1.4
+“Dramatico-Musical Work” means a work such as, but not limited to, a musical comedy, opera,
+play with music, revue, or ballet.
+1.5
+“Governmental Entities” means states, territories, dependencies, possessions or political
+subdivisions.
+1.6
+“Musical Work” means any musical composition, including any lyrics or words written to be
+used with such composition.
+1.7
+“Payment” means insertion of coins, currency, tokens, or other monetary units or their equivalent,
+including but not limited to credit cards and so-called ‘debit cards,’ smart phone payment or other similar
+methods of payment
+1.8
+“Premises” means the establishment in which a Digital Jukebox is located, including any
+adjoining areas of such establishment, such as a deck or patio.
+1.9
+“Pre-programmed Play” means a free mode on a Digital Jukebox that plays Digital Phonorecords
+automatically during periods when the Digital Jukebox is not being employed by activation through
+Payment and where programming of such mode and the selection of plays during such periods have been
+
+made solely by Licensee and plays of specific individual Digital Phonorecords during such periods cannot
+be selected by third parties.
+1.10
+
+“Term” has the meaning ascribed in Paragraph 9.1.
+
+1.11
+“Territory” means the United States, its territories, military bases and possessions including the
+Commonwealth of Puerto Rico, Guam and the US Virgin Islands.
+2.
+
+Grant of License
+
+2.1
+Scope of License. Subject to the terms and conditions of this Agreement, ASCAP hereby grants
+to Licensee, and Licensee hereby accepts, a non-exclusive, non-transferable, non-sublicensable right and
+license, solely during the Term, and solely in the Territory, to perform publicly or cause to be performed
+publicly by means of Digital Phonorecords on Digital Jukeboxes, solely at the Premises and not
+elsewhere or otherwise, and solely upon activation by Payment or through Pre-programmed Play, nondramatic renditions of the separate Musical Works in the ASCAP Repertory. By way of clarification, the
+rights granted by this license shall include the right of Licensee to perform the Musical Works in the
+ASCAP Repertory by transmitting them to Digital Jukebox hard drives, and the right of Licensee’s
+operators and operators’ customers to perform publicly such Musical Works via Digital Jukeboxes at the
+Premises.
+3.
+
+Limitations on License
+
+3.1
+Admission Charges. This license shall not extend to performances made by means of a Digital
+Jukebox that is located in an establishment making a direct or indirect charge for admission.
+3.2
+Means of Performance. This license does not authorize the performance of any musical
+composition by any means other than performances of Digital Phonorecords on Digital Jukeboxes, such
+as, but not limited to live performances, other audio-only performances (e.g., CD’s, karaoke, records,
+music on hold, radio), streaming of live concerts received by means of the Internet or otherwise, or any
+television, video, DVD, or other audio-visual performances.
+3.3
+Grants to Others. This license does not authorize Licensee or any of Licensee’s operators,
+operator’s customers, distributors, partners or other third-parties to grant to others any right to perform
+publicly or reproduce in any manner any of the Musical Works licensed under this Agreement.
+3.4
+Performances Outside of Premises. This license does not authorize the broadcasting or
+telecasting or transmission by wire, wireless means, Internet, webcasting, on-line service or otherwise, of
+renditions of Musical Works in ASCAP’s Repertory to persons outside of the Premises where each
+Digital Jukebox is located.
+3.5
+Dramatic Performances. This license is limited to non-dramatic performances, and does not
+authorize any dramatic performances. For purposes of this Agreement, a dramatic performance shall
+include, but not be limited to, the following:
+(a) performance of a Dramatico-Musical Work in its entirety;
+(b) performance of one or more Musical Works from a Dramatico-Musical Work accompanied
+by dialogue, pantomime, dance, stage action, or visual representation of the work from which the
+music is taken;
+(c) performance of one or more Musical Works as part of a story or plot, whether accompanied
+or unaccompanied by dialogue, pantomime, dance, stage action, or visual representation;
+(d) performance of a concert version of a Dramatico-Musical Work.
+
+2
+
+Notwithstanding the foregoing, it is expressly agreed and understood that performances from soundtracks
+of musical comedies, ballets, operas or Broadway or other musical plays or revues are covered by the
+terms of this license.
+4.
+
+License Fees
+
+4.1 Fees. In consideration of the rights and licenses granted herein, and subject to, and in
+accordance with the following provisions of this Article 4 and Article 5, Licensee agrees to pay
+ASCAP, for each calendar quarter during the Term, a Quarterly License Fee (as hereinafter defined)
+calculated pursuant to Section 4.2.
+4.2 Calculation of Fees. The “Quarterly License Fee” shall be computed as follows: Step 1.
+Calculate the “Monthly License Rate” per Digital Jukebox by dividing the “Annual License Rate” for
+such year, as set forth in Section 4.3, by 12. Step 2. Calculate the “Monthly License Fee” per Digital
+Jukebox for each month during a given calendar quarter by multiplying the Monthly License Rate per
+Digital Jukebox for each month during the quarter by the total number of Digital Jukeboxes that are
+in operation for any period of time during the preceding month. Step 3. Add the Monthly License
+Fees for all months in such calendar quarter to determine the Quarterly License Fee for such quarter.
+For purposes of this Agreement, a Digital Jukebox “in operation” is a Digital Jukebox that has
+generated revenue during the applicable period.
+4.3. Annual Rates. The Annual License Rates for each Digital Jukebox actually in operation
+during the applicable calendar year shall be as follows: (i) for calendar years through December 31,
+2014, an Annual License Rate of $55.00; and (ii), for calendar years 2015 and thereafter, an Annual
+License Fee equal to the Annual License Rate for the preceding calendar year, adjusted in accordance
+with the increase in the Consumer Price Index, All Urban Consumers - (CPI-U) between the
+preceding October and the next preceding October.
+4.4 Finance Charges. Licensee shall pay a finance charge of 1% per month from the date due on
+any required payment that is not made within 30 days of its due date.
+5.
+
+Reports and Payments
+
+5.1 Obligation to Report and Pay. Within 45 days after the end of each calendar quarter, Licensee
+shall submit reports to ASCAP and pay to ASCAP the Quarterly License Fee due for the previous
+calendar quarter. The reports shall state (a) the serial or other identification number of each Digital
+Jukebox licensed hereunder; (b) the name and location of the Premises where each Digital Jukeboxes
+is located; and (c) the total number of Digital Jukeboxes in operation for the preceding month for
+each month during such calendar quarter. ASCAP and Licensee shall mutually agree on the format
+for such report.
+6.
+
+Right of Verification
+
+6.1
+Right to Examination. Upon 45 days’ written notice, ASCAP shall have the right by its
+authorized representatives at reasonable times during normal business hours to examine Licensee’s books
+and records of account to such extent as may be necessary solely to verify the reports or other information
+and payments based thereon that are required by this Agreement. All data and information derived from
+ASCAP’s examination shall be treated as completely confidential pursuant to Paragraph 10. The period
+for which ASCAP may examine Licensee’s books and records of account pursuant to this Agreement
+shall be limited to three calendar years preceding the year in which the examination is made; provided,
+however, that, if an audit is postponed at Licensee’s request, then ASCAP shall have the right to examine
+
+3
+
+books and records for the period commencing with the third calendar year preceding the year in which
+notification of intention to examine was first given by ASCAP. This three-year limitation shall not apply
+if Licensee fails or refuses after written notice from ASCAP to produce the books and records necessary
+to verify any report or statement of accounting required pursuant to this Agreement.
+6.2
+Results of Examination. If any examination under Paragraph 6.1 shows that the license fees due
+ASCAP from Licensee have been underpaid by 10% or more, then Licensee shall pay a late payment fee
+on the balance shown due of 1% per month from the date(s) the license fees should have been paid
+pursuant to this Agreement. If any such examination shows that the license fees due ASCAP from
+Licensee have been underpaid by less than 10%, then Licensee shall pay a late payment fee on the
+balance shown due of 1% per month from the date ASCAP demands payment of such amount. However,
+no such late payment charge shall be assessed if payment of the license fee balance shown due is made
+within 45 days of receipt of written notification from ASCAP of underpayment. If such examination
+shows an overpayment of license fees, then ASCAP shall credit or refund the amount of such
+overpayment, at Licensee’s election, within 30 days. Late payment fees payable under this Paragraph 6.2
+shall only be for a maximum period that is coterminous with the period for which additional license fees
+are owed pursuant to ASCAP’s audit examination.
+7.
+
+License Notice
+
+7.1.
+Display of Notice. Licensee shall display by electronic means on the touchscreen of each Digital
+Jukebox licensed hereunder or in a similar place that is easily visible to the public (a) a notice that the
+Digital Jukebox is licensed by ASCAP; and (b) the serial or other identification number of the Digital
+Jukebox. Such notice shall be visible both when the Digital Jukebox is performing music and when it is
+inactive.
+8.
+
+Music Use Reports
+
+8.1
+Reports. Forty-five days after the end of each calendar quarter, Licensee shall furnish to ASCAP
+a list of all ASCAP Repertory Musical Works performed on the Digital Jukeboxes in operation hereunder,
+including, to the extent available, identification of the composer, lyricist, music publisher, recording
+artist, and Licensee Song Identification Number for each musical composition, duration of each
+performance, and the total number of performances of each Musical Works. ASCAP and Licensee shall
+mutually agree on the format for such music use reports. The information provided by Licensee to
+ASCAP as required by this Paragraph 8.1 shall be used only for the purpose of enabling ASCAP to
+distribute royalties on account of performances licensed under this Agreement. In the event that ASCAP
+agrees with any other supplier of Digital Jukeboxes on any music use reporting requirements that differ
+from those set forth in this Paragraph 8.1, ASCAP will give Licensee written notice of such differing
+music use reporting requirements within ten days of the date of execution of an agreement containing
+such differing music use reporting requirements, and Licensee shall be entitled (but not obligated) to
+substitute those requirements for the music use reporting requirements contained in this Paragraph 8.1.
+9.
+
+Term and Termination
+
+9.1 Term.
+This Agreement shall have an initial term commencing on the Effective Date and
+continuing for a period ending on December 31 of the same calendar year (the “Initial Term”) after which
+the Agreement shall renew automatically for additional successive periods of one calendar year (each
+such renewal period, a “Renewal Term”)(the Initial Term and all Renewal Terms, if any, are collectively,
+the “Term”) unless a Party gives notice to the other Party on or before 30 days prior to the expiration of
+the Initial Term or any Renewal Term that it does not wish the Agreement to renew for a Renewal Term.
+If such notice is given, this Agreement shall expire on the last day of such Initial Term or Renewal Term.
+This Agreement may be terminated in accordance with the terms and conditions of this Agreement.
+
+4
+
+9.2 Termination for Breach. If Licensee breaches any provisions of this Agreement, ASCAP may
+(reserving cumulatively all other remedies and rights pursuant to this Agreement and in law and in equity)
+terminate this Agreement, in whole or in part, by providing at least 30 days’ notice to Licensee; provided,
+however, that (a) such termination shall not be effective if such breach has been cured prior to the
+expiration of such 30-day period and (b) ASCAP may terminate this Agreement immediately, without the
+obligation to provide Licensee with such notice and the right to cure, if (i) it shall be reasonably deemed
+necessary by ASCAP to avoid imminent harm to ASCAP’s businesses, reputation or goodwill, (ii) such
+breach was caused by willful acts and/or omissions of Licensee or (iii) such breach is incapable of being
+cured prior to the expiration of the notice period.
+9.3 Termination for Insolvency.
+Either of ASCAP or Licensee may terminate immediately this
+Agreement in the event the other Party (a) admits in writing its inability to pay its debts as they become
+due, fails to satisfy any enforceable, final and material judgment against it, or otherwise ceases operations
+of its business in the ordinary course, (b) is adjudicated bankrupt or becomes insolvent, (c) winds up or
+liquidates its business voluntarily or otherwise, (d) applies for, consents to or suffers the appointment of,
+or the taking of possession of by, a receiver, custodian, assignee, trustee, liquidator or similar fiduciary of
+itself or of all or any substantial portion of its assets, (e) makes a general assignment for the benefit of
+creditors other than in the ordinary course of financing its ongoing operations, (f) commences a voluntary
+case under any state or federal bankruptcy laws (as now or hereafter in effect), (g) files a petition seeking
+to take advantage of any other law providing for the relief of debtors, (h) acquiesces to, or fails to have
+dismissed, within 30 days, any petition filed against it in any involuntary case pursuant to such
+bankruptcy laws or (i) takes any action for the purpose of effecting any of the foregoing.
+9.4 Termination for Interference. ASCAP may terminate immediately this Agreement in the event of
+either (a) any major interference with the operations of ASCAP in the Governmental Entity in which
+Licensee is located, by reason of any law of such Governmental Entity; or (b) any substantial increase in
+the cost to ASCAP of operating in such Governmental Entity, by reason of any law of such Governmental
+Entity, which is applicable to the licensing of performing rights.
+9.5 Effect of Termination. Upon the termination or expiration of this Agreement for any reason all
+rights and licenses granted by ASCAP to Licensee herein shall terminate. Upon a termination of this
+Agreement pursuant to Paragraph 9.4, ASCAP shall refund to Licensee any unearned license fees paid in
+advance.
+
+10.
+
+Confidentiality
+
+10.1 Non-Disclosure. The Parties agree to regard and preserve as confidential (a) all information related
+to the rights and obligations of the other Party pursuant to this Agreement, (b) the terms of this
+Agreement; (c) and all information reported by Licensee or otherwise obtained by ASCAP pursuant to
+this Agreement. (collectively, the “Confidential Information”). Each Party agrees to hold the Confidential
+Information of the other Party in trust and confidence and shall not disclose such information to any
+person, firm or enterprise, or use (directly or indirectly) any such information for its own benefit or the
+benefit of any other Party. Notwithstanding the foregoing, either Party may disclose the other Party’s
+Confidential Information pursuant to applicable law or regulation or compulsion of proper judicial or
+other legal process; provided, however, that the disclosing Party shall provide prompt notice of the same
+prior to such required disclosure such that the other Party may seek a protective order or other appropriate
+remedy to safeguard, restrict and/or limit the disclosure of such Confidential Information unless such
+required disclosure is to a Governmental Entity or judicial entity that requires by law or otherwise a
+submission of identities of ASCAP licensees and/or copies of ASCAP agreements.
+10.2 Exclusions. Information shall not be considered Confidential Information to the extent, but only to
+the extent, that such information (a) is or becomes publicly available through no fault, default or breach of
+or by the receiving Party, (b) is or was rightfully acquired by the receiving Party from another, to the
+
+5
+
+receiving Party’s knowledge, without restriction or obligation of confidentiality or (c) is or was
+independently developed by the receiving Party without use of or reference to Confidential Information of
+the other Party. Nothing herein contained, however, shall prevent ASCAP from relying upon this
+Agreement and such information for the purpose of licensing or collecting fees for performances of
+Musical Works in the ASCAP Repertory on the Digital Jukeboxes.
+11.
+
+Indemnification
+
+11.1 ASCAP Indemnification. ASCAP agrees to defend and handle at its own cost and expense any
+claim or action against Licensee, its officers, directors, employees, representatives, and agents (each a
+“Licensee Indemnitee”) based upon or in connection with any action or claim by a third party arising out
+of Licensee’s use of the ASCAP Repertory as specifically permitted pursuant to this Agreement, but
+specifically excluding any claim or action caused by or based upon any unauthorized act or omission of
+Licensee or its respective employees, contractors, representatives or agents. ASCAP agrees to indemnify
+and hold the Licensee Indemnitees harmless from and against any and all liabilities, losses, damages,
+costs and expenses (including reasonable attorneys’ fees) associated with any such claim or action.
+ASCAP shall have the right to conduct the defense of any such claim or action and all negotiations for its
+settlement or compromise; provided, however, that (a) that no settlement or compromise affecting the
+financial or legal obligations of any Licensee Indemnitee shall be entered into or agreed to without the
+applicable Licensee Indemnitee’s prior approval and unless such settlement contains an unconditional
+release by the claimant or the plaintiff of the Licensee Indemnitee, its officers, directors, employees,
+representatives and agents from all liability in respect of such claim or action and (b) each Licensee
+Indemnitee has the right to participate, at its own expense, in the defense and/or settlement of any such
+claim or action in order to protect its own interests.
+11.2 Licensee Indemnification. Licensee agrees to defend and handle at its own cost and expense any
+claim or action against ASCAP, its respective officers, directors, employees, representatives, members
+and agents (each an “ASCAP Indemnitee”) based upon or in connection with any action or claim by a
+third party arising out of (a) any actual or alleged breach of Licensee’s representations, warranties and
+covenants contained in this Agreement and (b) operation of Licensee’s Digital Jukebox, but specifically
+excluding any claim or action caused by or based upon Licensee’s use of the ASCAP Repertory as
+specifically permitted pursuant to this Agreement or any unauthorized act or omission of ASCAP, its
+employees, contractors, representatives or agents. Licensee agrees to indemnify and hold the ASCAP
+Indemnitees harmless from and against any and all liabilities, losses, damages, costs and expenses
+(including reasonable attorneys’ fees) associated with any such claim or action. Licensee shall have the
+right to conduct the defense of any such claim or action and all negotiations for its settlement or
+compromise; provided, however, that (y) that no settlement or compromise affecting the financial or legal
+obligations of any ASCAP Indemnitee shall be entered into or agreed to without the applicable ASCAP
+Indemnitee’s prior approval and unless such settlement contains an unconditional release by the claimant
+or the plaintiff of the ASCAP Indemnitee, its officers, directors, employees, representatives, members and
+agents from all liability in respect of such claim or action and (z) each ASCAP Indemnitee has the right to
+participate, at its own expense, in the defense and/or settlement of any such claim or action in order to
+protect its own interests.
+12.
+
+Representations and Warranties.
+
+12.1
+Mutual. Each Party represents, warrants and covenants to the other Party that: (a) it has the full
+corporate right, power and authority to enter into this Agreement and to perform the acts required of it
+pursuant to this Agreement, (b) the execution of this Agreement and performance of its obligations
+pursuant to this Agreement do not and shall not violate any other agreement to which it is a party, (c) this
+Agreement constitutes the legal, valid and binding obligation of such Party when executed and delivered
+and (d) any and all activities it undertakes in connection with this Agreement shall be performed in
+compliance with all applicable laws, rules and regulations.
+
+6
+
+12.2
+Licensee. Licensee represents, warrants and covenants to ASCAP that (a) the operation of the
+Digital Jukeboxes do not violate any applicable laws, rules or regulations or infringe the rights of any
+third party and (b) it has obtained or shall obtain and maintain during the Term all rights, licenses,
+consents and authorizations necessary to perform its obligations as set forth in this Agreement.
+13.
+
+Miscellaneous.
+
+13.1
+Notices. Notices of termination under this Agreement shall be given only if mailed to the other
+Party by registered or certified U.S. Mail or sent by generally recognized same-day or overnight delivery
+service. Unless stated otherwise, all other notices required or permitted to be given by either Party to the
+other hereunder shall, in addition to the methods set forth above, also be given if sent by first class
+U.S. Mail, facsimile or electronic mail (e-mail) transmission. Notices to ASCAP shall be sent to the
+attention of VP of General Licensing as follows: (a) if by U.S. Mail, to the ASCAP address set out
+above; (b) if by facsimile, to 615-691-7795; and (c) if by electronic mail, to glcs@ascap.com. Notices to
+Licensee shall be sent to the mailing address, facsimile number or electronic mail address set out above or
+last known to ASCAP. Each Party agrees to inform the other of any change of address and/or contact
+information.
+13.2
+Assignment. This Agreement shall be binding upon and inure to the benefit of the Parties and
+their permitted successors and assigns except that neither this Agreement nor either Party’s rights or
+obligations hereunder shall be assigned, conveyed or otherwise transferred, in whole or in part, by a Party
+without the other Party’s prior written consent and any purported assignment without such consent shall
+be void ab initio and of no force and effect; provided, however, that no consent shall be necessary in the
+event of any one or more assignments by one Party of any and/or all of its rights or obligations hereunder
+to one or more affiliates controlled by that Party or any successor entity(ies) resulting from a merger,
+acquisition or consolidation, spin-off, divestiture or otherwise succeeding to all or a substantial portion of
+the assets or business of such Party.
+13.3
+Amendment; Waiver; Severability. This Agreement may not be amended, modified or
+terminated except by a written instrument signed by both of the Parties. No failure or delay by either
+Party to exercise any right or enforce any obligation shall impair or be construed as a waiver or on-going
+waiver of that or any or other right or power, unless made in writing and signed by both Parties. If any
+term of this Agreement is held invalid, illegal or unenforceable in any respect, such provision shall be
+replaced by an enforceable provision that most closely meets the commercial intent of the Parties, and
+such holding shall not affect any other provision of this Agreement, which shall be and remain effective
+as though such invalid, illegal or unenforceable provision had not been contained herein.
+13.4
+Governing Law. This Agreement and the meaning of its provisions shall be governed by and
+construed in accordance with the laws of the State of New York pertaining to contracts made and fully
+performed therein, without regard to choice of law rules. Venue for any dispute between the parties shall
+be in the courts located in New York County, New York.
+13.5
+Entire Agreement. This Agreement, together with the attachments hereto which are incorporated
+herein by this reference, constitutes the entire agreement between the Parties and supersedes any prior or
+inconsistent agreements, negotiations, representations and promises, written or oral with respect to the
+subject matter hereof. Neither Party has made any representations or promises to the other in connection
+with this Agreement or its subject matter that are not expressly set forth in this Agreement.
+13.6
+Survival. The provisions of Section 4 (License Fees); Section 5 (Reports and Payments); Section
+6 (Right of Verification); Paragraph 9.5 (Effect of Termination); Section 10 (Confidentiality); Section 11
+
+7
+
+(Indemnification); Section 12 (Representations and Warranties); and this Section 13 (Miscellaneous) shall
+survive the expiration or termination of this Agreement.
+13.7. Counterparts. This Agreement may be executed in one or more counterparts, each of which
+shall be deemed and accepted as an original, and all of which together shall constitute a single agreement.
+
+AMERICAN SOCIETY OF COMPOSERS,
+AUTHORS AND PUBLISHERS
+By: ______________________________
+
+Licensee:______________________________
+
+Title: _____________________________
+
+Title: ___________________________
+
+By: ____________________________
+
+8
+
+NOTICE OF CHANGE
+Schedule B for the Year 2016
+IF YOU ARE LICENSING FEWER JUKEBOXES THAN LAST YEAR: You have agreed,
+as outlined in paragraph 7(b) of the Jukebox License Agreement, to provide us with an explanation and
+information on the location of the unlicensed jukeboxes:
+“7(b) Each party agrees to inform the other of any change of address and, in the case of a sale or transfer of the business or
+jukebox(es) of the name, telephone number, address, including, city, state, and zip code, of the new owner and the date of
+the sale or transfer and shall submit a Notice Of Change statement in the form of Schedule “B” attached hereto.”
+
+TO: JUKEBOX LICENSE OFFICE
+FROM: (Company Name) ___________________ ACCOUNT # ___________
+
+CHANGE OF ADDRESS:
+Company Name: ____________________________________________
+Address: ___________________________________________________
+City: ________________________ State: _______ Zip:_____________
+Phone: (_____)-_______-_________ Fax: (_____)-_______-________
+Email: ______________________________________________________
+
+JUKEBOXES SOLD or TRANSFERRED IN PRIOR YEAR:
+Sold to: Company Name: _____________________________________
+New Owner’s Name: _________________________________________
+Address: ____________________________________________________
+City:
+___ State:
+Zip: _____________
+Phone: (____)-_____-______ Email: _____________________________
+Date of Transfer: __________________
+
+NUMBER of JUKEBOXES REMOVED from LOCATION
+(but not sold) in PRIOR YEAR____________________________________
+Please Explain: ________________________________________________
+_____________________________________________________________
+_____________________________________________________________
+Date of Removal: __________________
+
+Prepared by: (Signature) _____________________________Date:________________
+Please print name: ________________________________
+
+
